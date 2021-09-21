@@ -23,7 +23,7 @@
 | WiFi** | Very Good but some bugs with AirportItlwm.kext|
 | Ethernet | Excellent|
 | Bluetooth | Good |
-| Thunderbolt | Not Tested |
+| Thunderbolt | Not Tested (I Don't have Thunderbolt devices)|
 | CPU Optimisation | Excellent |
 | Battery | Not Tested |
 | Brightness & Sound Keys | Excellent |
