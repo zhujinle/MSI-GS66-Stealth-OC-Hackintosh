@@ -1,5 +1,6 @@
 # MSI-GS66-Stealth-OC-Hackintosh
-##MSI GS66-664
+### 自己的机型测试发现有闪屏问题，不保证他人能用，各位请自行测试
+## MSI GS66-664
 | Specifications | Details |
 |:-: |:-: |
 | Processor | i7-10870H Hexa Core  |
