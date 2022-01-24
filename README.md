@@ -2,7 +2,7 @@
 ##MSI GS66-664
 | Specifications | Details |
 |:-: |:-: |
-| Processor | i7-10875H Hexa Core  |
+| Processor | i7-10870H Hexa Core  |
 | RAM | 16GB DDR4 |
 | SSD | 2xNVMe PM981a 1T(disabled with SSDT)+MP600 1T |
 | Graphics Card | Intel UHD Graphics |
@@ -24,7 +24,7 @@
 | WiFi** | Very Good but some bugs with AirportItlwm.kext|
 | Ethernet | Excellent|
 | Bluetooth | Good |
-| Thunderbolt | Not Tested (I Don't have Thunderbolt devices)|
+| Thunderbolt | Not Tested (I doesn't have Thunderbolt devices)|
 | CPU Optimisation | Excellent |
 | Battery | Not Tested |
 | Brightness & Sound Keys | Excellent |
