@@ -3,7 +3,7 @@
 ## MSI GS66-664
 | Specifications | Details |
 |:-: |:-: |
-| Processor | i7-10870H Hexa Core  |
+| Processor | i7-10870H 8 Core  |
 | RAM | 16GB DDR4 |
 | SSD | 2xNVMe PM981a 1T(disabled with SSDT)+MP600 1T |
 | Graphics Card | Intel UHD Graphics |
