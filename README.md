@@ -1,5 +1,6 @@
 # MSI-GS66-Stealth-OC-Hackintosh
 ### 自己的机型测试发现有闪屏问题，不保证他人能用，各位请自行测试
+（2022.9.13更新）确认了，我这里闪屏是appleALC的问题，请自行测试ALC的ID，找到符合自己机子的ID
 ## MSI GS66-664
 | Specifications | Details |
 |:-: |:-: |
